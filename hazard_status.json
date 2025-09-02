@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-09-01T16:20:55.675171",
+  "time_second": 10,
+  "prediction_time": 13,
+  "collision_probability": 0.0,
+  "distance": 56.43,
+  "is_danger": false,
+  "status": "SAFE",
+  "car_voxels": 4095,
+  "person_voxels": 108,
+  "overlap_pairs": 0,
+  "overlap_count": 0,
+  "overlap_ratio": 0.0,
+  "car_position": {
+    "x": 1990.05,
+    "y": 25.94,
+    "z": 2613.64
+  },
+  "person_position": {
+    "x": 1985.9,
+    "y": 25.0,
+    "z": 2557.37
+  },
+  "car_heading": {
+    "x": 0.129,
+    "y": 0.0,
+    "z": 0.992
+  }
+}
