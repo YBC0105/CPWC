@@ -1,2 +1,0 @@
-UDP receiver started: 2025-09-01 16:20:40.559359
-UDP receiver stopped: 2025-09-01 16:20:58.388964
